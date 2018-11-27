@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.9">
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/utils/TypeStringUtils.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/utils/EncodingUtils.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/Descriptor.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/DescriptorBase.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/ConnectorDescriptorValidator.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/FormatDescriptor.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/DescriptorValidator.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/FormatDescriptorValidator.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/DescriptorProperties.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/descriptors/ConnectorDescriptor.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/factories/TableFactory.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/factories/TableFormatFactory.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/factories/DeserializationSchemaFactory.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/factories/SerializationSchemaFactory.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/factories/TableFormatFactoryBase.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/api/ValidationException.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/api/TableException.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/api/TableSchema.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/test/java/org/apache/flink/table/utils/TypeStringUtilsTest.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/test/java/org/apache/flink/table/utils/EncodingUtilsTest.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/test/java/org/apache/flink/table/descriptors/DescriptorTestBase.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-libraries/flink-table-common/src/test/java/org/apache/flink/table/factories/TableFormatFactoryBaseTest.java">
+</file>
+</checkstyle>

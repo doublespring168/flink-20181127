@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.9">
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/main/java/org/apache/flink/api/scala/operators/ScalaCsvOutputFormat.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/main/java/org/apache/flink/api/scala/operators/ScalaAggregateOperator.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/main/java/org/apache/flink/api/scala/typeutils/TraversableSerializerConfigSnapshot.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/main/java/org/apache/flink/api/scala/typeutils/ScalaEitherSerializerSnapshot.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/main/java/org/apache/flink/api/scala/typeutils/ScalaTrySerializerConfigSnapshot.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/main/java/org/apache/flink/api/scala/typeutils/ScalaOptionSerializerConfigSnapshot.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/test/java/org/apache/flink/api/scala/typeutils/ScalaEitherSerializerSnapshotMigrationTest.java">
+</file>
+<file name="/Users/spring/workspace/flink-20181127/flink-scala/src/test/resources/log4j-test.properties">
+</file>
+</checkstyle>
